@@ -1,8 +1,6 @@
 # Who was alive?
 
 
-# Titanic Survival Prediction
-
 ## Project Overview
 This project uses machine learning to predict which passengers survived the Titanic shipwreck based on features like age, gender, ticket class, and more. It's my solution to the [Kaggle Titanic Competition](https://www.kaggle.com/competitions/titanic), a popular entry-level machine learning challenge.
 
