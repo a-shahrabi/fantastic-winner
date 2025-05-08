@@ -27,3 +27,4 @@ The sinking of the Titanic in 1912 is one of history's most infamous shipwrecks.
 ├── requirements.txt       # Required Python packages
 ├── README.md              # Project documentation
 └── .gitignore             # Specifies intentionally untracked files
+```
