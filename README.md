@@ -9,7 +9,7 @@ The sinking of the Titanic in 1912 is one of history's most infamous shipwrecks.
 
 ## Project Structure:
 
-titanic-prediction/
+```titanic-prediction/
 │
 ├── data/                  # Competition data files
 │   ├── train.csv          # Training data with survival information
