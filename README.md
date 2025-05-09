@@ -29,3 +29,33 @@ titanic-prediction/
 ├── README.md              # Project documentation
 └── .gitignore             # Specifies intentionally untracked files
 ```
+
+
+## Setup Instructions
+
+### Prerequisites
+- Python 3.8+
+- Git
+
+### Installation
+1. Clone this repository
+    ```
+    git clone https://github.com/your-username/titanic-prediction.git
+    cd titanic-prediction
+    ```
+
+2. Create a Python environment (optional but recommended)
+    ```
+    # For macOS/Linux
+    python3 -m venv venv
+    source venv/bin/activate
+    
+    # For Windows
+    python -m venv venv
+    venv\Scripts\activate
+    ```
+
+3. Install dependencies
+    ```
+    pip install -r requirements.txt
+    ```
