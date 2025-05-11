@@ -59,3 +59,41 @@ titanic-prediction/
     ```
     pip install -r requirements.txt
     ```
+
+4. Download the competition data from Kaggle and place it in the `data/` directory
+
+## Data Description
+
+### Features
+- **PassengerId**: Unique identifier for each passenger
+- **Survived**: Target variable (0 = No, 1 = Yes)
+- **Pclass**: Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd)
+- **Name**: Passenger name
+- **Sex**: Passenger sex
+- **Age**: Passenger age
+- **SibSp**: Number of siblings/spouses aboard
+- **Parch**: Number of parents/children aboard
+- **Ticket**: Ticket number
+- **Fare**: Passenger fare
+- **Cabin**: Cabin number
+- **Embarked**: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
+
+## Approach
+
+1. **Data Exploration**: Analyze the data to identify patterns and relationships
+2. **Data Preprocessing**: Handle missing values and encode categorical features
+3. **Feature Engineering**: Create new features that might help prediction
+4. **Model Selection**: Compare various ML algorithms (Random Forest, Logistic Regression, etc.)
+5. **Hyperparameter Tuning**: Optimize model parameters
+6. **Evaluation**: Assess model performance using cross-validation
+7. **Prediction**: Generate predictions for the test set
+
+## Performance Metrics
+The model's performance is evaluated using:
+- Accuracy score
+- ROC-AUC
+- Confusion matrix
+
+## Results
+[To be updated as the project progresses]
+
