@@ -97,3 +97,15 @@ The model's performance is evaluated using:
 ## Results
 [To be updated as the project progresses]
 
+
+## Future Improvements
+- Ensemble multiple models
+- Perform more feature engineering
+- Try advanced algorithms like XGBoost or neural networks
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+- The Kaggle community for their numerous tutorials and shared knowledge
+- The Titanic competition for providing a great introductory challenge for machine learning
