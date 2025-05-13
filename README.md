@@ -107,5 +107,5 @@ The model's performance is evaluated using:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-- The Kaggle community for their numerous tutorials and shared knowledge.
-- The Titanic competition for providing a great introductory challenge for machine learning.
+- The Kaggle community for their numerous tutorials and shared knowledge
+- The Titanic competition for providing a great introductory challenge for machine learning
